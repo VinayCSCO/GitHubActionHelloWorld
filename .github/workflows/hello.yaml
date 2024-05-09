@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: my-step
-        run: echo "Github Actions is awesome right :)"
+        run: echo "Github Actions is awesome right?"
